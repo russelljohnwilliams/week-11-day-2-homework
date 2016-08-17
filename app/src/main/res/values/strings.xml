@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guesser</string>
+    <string name="challenge">Guess a number\n 1 to 5</string>
+    <string name="input">Go on, have a shot.</string>
+    <string name="button">hit me</string>
+    <string name="made_guess">Back to Number Guesser!</string>
+    <string name="guess_statement">You made your guess,\ndid you beat me\nlets gather round\nand we will see...</string>
+</resources>
